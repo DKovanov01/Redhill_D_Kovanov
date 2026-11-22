@@ -29,11 +29,11 @@
 Note: Downloading the repo as a ZIP is not recommended, as git LFS files may not be retrieved properly.
 
 **Gameplay Instructions**
-Movement: "W", "A", "S", "D";
-Jump: "Space";
-Interaction Key: "E";
-Reset Key: "F";
-Close Game: "Esc";
+- Movement: "W", "A", "S", "D";
+- Jump: "Space";
+- Interaction Key: "E";
+- Reset Key: "F";
+- Close Game: "Esc";
 
 **Implementation Decisions**
 The project was built upon UE5's Third Person template to save time on integrating base assets and player movement;
