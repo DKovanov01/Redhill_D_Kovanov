@@ -67,4 +67,4 @@ AI Use: ChatGPT was first used in the first hour of the project to debug issues 
 
 **Demo Video**
 
-https://youtu.be/EqTR6KNGLTQ
+https://youtu.be/EckfRFhRt9I
