@@ -37,6 +37,12 @@ Note: Downloading the repo as a ZIP is not recommended, as git LFS files may not
 
 To complete the game, reach the lever on the right side of the room, interact with it to open the door, and leave the room;
 
+**Scenarios**
+- repeated interaction ✓
+- reset during door movement ✓
+- reset after completion ✓ 
+- several complete playthroughs in a row ✓
+
 **Implementation Decisions**
 
 The project was built upon UE5's Third Person template to save time on integrating base assets and player movement;
