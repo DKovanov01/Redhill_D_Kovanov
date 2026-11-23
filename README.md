@@ -64,3 +64,7 @@ AI Use: ChatGPT was first used in the first hour of the project to debug issues 
 **Time Spent**
 
 5 hours and 57 minutes;
+
+**Demo Video**
+
+https://youtu.be/EqTR6KNGLTQ
